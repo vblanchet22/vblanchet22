@@ -70,10 +70,7 @@ I build robust **CRM solutions** at [Isatech](https://www.isatech.fr), specializ
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vblanchet22&theme=tokyonight" width="100%"/>
-
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vblanchet22&theme=tokyonight"/>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vblanchet22&theme=tokyonight"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vblanchet22&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=2c8ebb&line=2c8ebb&point=e63946" width="100%"/>
 
 </div>
 
