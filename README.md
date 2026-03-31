@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated SVG Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Valentin%20Blanchet&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CRM%20Developer%20%7C%20.NET%20%26%20React%20Craftsman&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Valentin%20Blanchet&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CRM%20Developer%20%7C%20.NET%20%26%20React%20Craftsman&descAlignY=60&descSize=18" width="100%"/>
 
 <!-- Animated typing SVG -->
 <a href="https://git.io/typing-svg">
